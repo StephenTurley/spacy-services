@@ -2,3 +2,4 @@ falcon
 spacy==1.8.2
 pytest
 gunicorn
+pathlib
